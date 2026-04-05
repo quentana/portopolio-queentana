@@ -93,7 +93,7 @@ const Hero = () => {
               ))}
             </div>
           </div>
-
+{/* 
           <div className="flex justify-center">
             <div className="relative">
 
@@ -104,7 +104,7 @@ const Hero = () => {
                 </div>
               </div>
             </div>
-          </div>
+          </div> */}
         </div>
 
 
